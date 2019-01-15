@@ -1,0 +1,12 @@
+
+.scrolltotop {
+    width:48px;
+    height:48px;
+    position:fixed;
+    bottom:15px;
+    right:15px;
+    display:none;
+    text-indent:-300px;
+    opacity:1.0;
+    background: url('back_to_top.png') no-repeat;
+}
